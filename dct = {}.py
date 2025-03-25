@@ -17,4 +17,7 @@ def canConstruct( ransomNote: str, magazine: str) -> bool:
             if dct == {}:
                 return True
         return False                          
-print(canConstruct("aaa", "abbb"))    
+print(canConstruct("aaa", "abbb"))   
+
+
+
